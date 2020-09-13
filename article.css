@@ -178,3 +178,21 @@ a{
 .bottom:link{
   color:white;
 }
+
+@media screen and (min-width:576px){
+ .title,.detail,.author,.date,.body,.last{
+   margin-left:10%;
+   margin-right:20%;
+ }
+ .headpic{
+   width:65%;
+   margin-left: 12%;
+ }
+ .imagetitle{
+   margin-left:12%;
+   font-size: .7rem;
+ }
+}
+
+
+
