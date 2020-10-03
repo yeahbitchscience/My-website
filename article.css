@@ -42,28 +42,18 @@ i{
 
 /*link specification*/
 
-a:link {
-  color: white;
-}
-
-/* visited link */
-a:visited {
-  color:white;
-}
-
-/* mouse over link */
-a:hover {
-  color:#708294;
-}
-
-/* selected link */
-a:active {
-  color:white ;
-}
-
 a{
   text-decoration: none;
   display: inline;
+}
+
+.visibal:link {
+  color: #2F3CCF;
+}
+
+/* visited link */
+.visibal:visited {
+  color:#777882;
 }
 
 /*content*/
