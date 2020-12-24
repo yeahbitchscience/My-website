@@ -133,3 +133,9 @@ a:active {
 .bottom:link{
   color:white;
 }
+
+#mode{
+  width: 1rem;
+  height: 1rem;
+  padding-top: 0.3rem;
+}

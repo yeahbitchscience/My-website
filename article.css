@@ -169,6 +169,12 @@ a{
   color:white;
 }
 
+#mode{
+  width: 1rem;
+  height: 1rem;
+  padding-top: 0.3rem;
+}
+
 @media screen and (min-width:576px){
  .title,.detail,.author,.date,.body,.last{
    margin-left:10%;
