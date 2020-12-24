@@ -82,12 +82,12 @@ a:active {
 }
 
 .mypic{
-  width:25%;
-  height:25%;
+  width:20%;
+  height:20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10%;
+  margin-top: 15%;
 }
 
 /*bottom navbar*/
